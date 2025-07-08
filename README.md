@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Meric53
+- yazılım konusunda kendimi geliştirmekte kararlıyım
 - 👀 I’m interested in futbol oynamak ve izlemek, enstürman çalmak vb.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on büyük markalar 
